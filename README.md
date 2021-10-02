@@ -1,4 +1,4 @@
-# High-Value-Customers-Identification
+# Insiders - All In One Place
 
 This is the repo of the Insiders project from the All In One Place company.
  
