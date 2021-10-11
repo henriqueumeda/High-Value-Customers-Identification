@@ -13,9 +13,12 @@ This is the repo of the Insiders project from the All In One Place company.
   <img  src="images/kmeans.png">
 </p>
 
+- An API was created using Flask and Heroku. The following url can be accessed in order to use the API: https://insiders.herokuapp.com/predict
+
 # Repository
 - csv - The folder with all csv files used
 - images - The folder with all images files used in this repo
+- model - The folder with all models used to build the API
 
 
 # Stack 
@@ -24,3 +27,5 @@ This is the repo of the Insiders project from the All In One Place company.
 - Matplotlib
 - Seaborn
 - Scikit-Learn
+- Flask
+- Heroku
